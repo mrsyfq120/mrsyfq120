@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsyfq120
 - 👀 I’m interested in Web Development and Software Engineering careers
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Linux, Git, Github, HTML, CSS & Javascript.
 
 
 <!---
