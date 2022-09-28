@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsyfq120
-- 👀 I’m interested in Web Development and Software Engineering careers
-- 🌱 I’m currently learning Linux, Git, Github, HTML, CSS & Javascript.
+- 👀 I’m interested in Web Development careers. Hopefully, I could land a job after my internship and help every individuals or organizations out there to have their own website !
+- 🌱 I’m currently learning Xubuntu, Git, HTML, CSS and Javascript through The Odin Project. Let's make my goal become true.
 
 
 <!---
